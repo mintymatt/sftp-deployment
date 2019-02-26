@@ -1,3 +1,7 @@
+*Under development, come back in a few days*
+
+---
+
 #FORK: Provide support for Sublime Text SFTP configuration JSON file
 
 Sublime SFTP: https://wbond.net/sublime_packages/sftp
