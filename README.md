@@ -1,5 +1,17 @@
-[![Build Status](https://travis-ci.org/amoussard/sftp-deployment.svg?branch=evol%2F3-upload-selection)](https://travis-ci.org/amoussard/sftp-deployment)
-[![Coverage Status](https://img.shields.io/coveralls/amoussard/sftp-deployment.svg)](https://coveralls.io/r/amoussard/sftp-deployment)
+#FORK: Provide support for Sublime Text SFTP configuration JSON file
+
+Sublime SFTP: https://wbond.net/sublime_packages/sftp
+
+This repo is unlikely to be kept up-to-date, but by all means you're welcome to drop any issues and I may be able to help. Alternatively, check the [original source Repo](https://github.com/amoussard/sftp-deployment).
+
+What can this repo do?
+
+* Support Sublime SFTP config file `sftp-config.json`
+* Support Sublime SFTP config keys
+
+This repo doesn't provide many of the features that Sublime SFTP provides and just simply acts as a bridge between Atom.io/Sublime git projects.
+
+---
 
 #SFTP-Deployment for Atom.io
 
